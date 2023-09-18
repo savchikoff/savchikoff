@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/savchikoff" target="_blank">𝗗𝗮𝗻𝗶𝗹𝗹 𝗦𝗮𝘃𝗰𝗵𝗶𝗸</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A programmer from Belarus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=500&color=000F87&center=true&vCenter=true&width=435&lines=A+junior+Front-End+programmer;+from+Belarus)](https://git.io/typing-svg)
 
 <!--
 **savchikoff/savchikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
