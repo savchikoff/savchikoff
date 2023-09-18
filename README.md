@@ -3,9 +3,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=000F87&vCenter=true&width=435&lines=A+junior+Front-End+programmer;+from+Belarus" alt="Typing SVG" /></a>
 
-<h2>Technologies:</h2><br>
-
-![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
+<h2>Technologies:</h2>
+</br>![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 
 <!--
 **savchikoff/savchikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
