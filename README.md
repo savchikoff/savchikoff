@@ -1,7 +1,7 @@
 <h1>Hello, I'm <a href="https://t.me/savchikoff" target="_blank">𝗗𝗮𝗻𝗶𝗹𝗹 𝗦𝗮𝘃𝗰𝗵𝗶𝗸</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=000F87&vCenter=true&width=435&lines=A+junior+Front-End+programmer;+from+Belarus" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=500&color=F73B3B&background=FF000000&vCenter=true&random=false&width=435&lines=Junior+Front-End+Developer;with+deep+knowledge+in+design;+and+marketing)](https://git.io/typing-svg)
 
 <h2>Languages and tools:</h2>
 
