@@ -12,7 +12,8 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/savchikoff)   
+[![codewars](https://www.codewars.com/users/savchikoff/badges/large)](https://www.codewars.com/users/savchikoff)  
+
 
 <!--
 **savchikoff/savchikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
