@@ -1,8 +1,6 @@
 <h1>Hello, I'm <a href="https://t.me/savchikoff" target="_blank">𝗗𝗮𝗻𝗶𝗹𝗹 𝗦𝗮𝘃𝗰𝗵𝗶𝗸</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=500&color=F73B3B&background=FF000000&vCenter=true&random=false&width=435&lines=Junior+Front-End+Developer;with+deep+knowledge+in+design;+and+marketing)](https://git.io/typing-svg)
-
 <h2>Languages and tools:</h2>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
